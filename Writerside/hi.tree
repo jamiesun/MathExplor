@@ -8,6 +8,8 @@
 
     <toc-element topic="Default-topic.md"/>
     <toc-element topic="Logarithmic-class.md">
-        <toc-element topic="Empty-MD-Topic.md"/>
+        <toc-element topic="Logarithmic-Applications.md"/>
+        <toc-element topic="Logarithmic-base.md"/>
     </toc-element>
+
 </instance-profile>
