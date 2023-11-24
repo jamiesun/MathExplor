@@ -15,10 +15,13 @@
 
 现在，让我们用对数的概念来观察这个过程。如果我们想知道细胞需要分裂多少次才能达到一定的数量，
 这时对数就派上了用场。在这个例子中，底数 a 就是每次分裂时细胞数量的增倍率（在这里是 2），
-而 c 是我们想达到的细胞总数。对数 <code-block lang="tex"> \log_a c</code-block> 就是告诉我们需要多少次分裂才能从一个细胞增长到 c 个细胞。
+而 c 是我们想达到的细胞总数。对数 
+<code-block lang="tex"> \log_a c</code-block> 就是告诉我们需要多少次分裂才能从一个细胞增长到 c 个细胞。
 
-所以，如果我们有 <code-block lang="tex"> 2^b = c </code-block> 的关系（其中 <code-block lang="tex"> a = 2 </code-block>， b 是分裂次数，c 是细胞总数），
-那么 b 就是以 2 为底 c 的对数，记作 <code-block lang="tex"> b = \log_2 c </code-block>。
+所以，如果我们有 
+<code-block lang="tex"> 2^b = c </code-block> 的关系（其中 <code-block lang="tex"> a = 2 </code-block>， b 是分裂次数，c 是细胞总数），
+那么 b 就是以 2 为底 c 的对数，记作 
+<code-block lang="tex"> b = \log_2 c </code-block>。
 这就是对数的魔力——它能帮我们从结果反推过程，就像解开了自然界增长的秘密代码一样。
 
 ## 2. 对数的性质 
